@@ -1,0 +1,6 @@
+{
+  "SEND_FROM": "input send from e-mail address",
+  "SEND_TO": "input send to e-mail address",
+  "SUBJECT": "input e-mail subject",
+  "CONTENT": "input e-mail content"
+}

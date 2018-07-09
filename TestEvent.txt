@@ -1,5 +1,0 @@
-{
-  "TO_EMAIL": "Send to",
-  "SUBJECT": "Mail subject",
-  "CONTENT": "Mail content"
-}
