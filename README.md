@@ -29,7 +29,7 @@ AWS Lambda function to send emails using SendGrid.
 
 1. Save this function.
 
-1. Use sample file(./sample.json). Replace test file each key value.
+1. Use sample file(./Test/sample.json). Replace test file each key value.
 
 1. Upload sample file to S3 bucket.
 

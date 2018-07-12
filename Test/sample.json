@@ -1,4 +1,5 @@
 {
+  "TYPE": "sendgrid",
   "SEND_FROM": "input send from e-mail address",
   "SEND_TO": "input send to e-mail address",
   "SUBJECT": "input e-mail subject",
