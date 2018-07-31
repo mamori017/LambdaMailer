@@ -1,14 +1,15 @@
 # LambdaMailer
 
-![20180705140608](https://user-images.githubusercontent.com/7507701/42428708-0c2d25dc-8370-11e8-9c8e-a7d8ac189367.png)
+![20180731120000](https://user-images.githubusercontent.com/7507701/43430028-d2f4d61e-94a1-11e8-99af-4ae9482e1db0.png)
 
 ## Overview
 
-AWS Lambda function to send emails using SendGrid.
+AWS Lambda function to send E-mail using SendGrid or Amazon SNS.
 
 ## Requirement
 
 - SendGrid API
+- Amazon SNS access permission
 
 ## Usage
 
@@ -29,9 +30,20 @@ AWS Lambda function to send emails using SendGrid.
 
 1. Save this function.
 
-1. Use sample file(./sample.json). Replace test file each key value.
+1. Use sample file(./Test/sample.json) and replace each key value.
+
+    |Key |Description |
+    |---|---|
+    |TYPE |Set "sendgrid" or "sns" |
+    |SEND_FROM  |Send from E-mail address |
+    |SEND_TO |Send to E-mail address |
+    |CONTENT |Body |
 
 1. Upload sample file to S3 bucket.
+
+## Licence
+
+[MIT](https://github.com/mamori017/LambdaMailer/blob/master/LICENSE)
 
 ## Author
 
