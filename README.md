@@ -1,5 +1,11 @@
 # LambdaMailer
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9df9ec41024a402ea0e5465267d05530)](https://www.codacy.com/app/mamori017/LambdaMailer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mamori017/LambdaMailer&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/mamori017/lambdamailer/badge)](https://www.codefactor.io/repository/github/mamori017/lambdamailer)
+[![BCH compliance](https://bettercodehub.com/edge/badge/mamori017/LambdaMailer?branch=master)](https://bettercodehub.com/)
+[![Release](https://img.shields.io/github/release/mamori017/LambdaMailer.svg)](https://github.com/mamori017/LambdaMailer/releases/latest)
+[![License](https://img.shields.io/github/license/mamori017/LambdaMailer.svg)](https://github.com/mamori017/LambdaMailer/blob/master/LICENSE)
+
 ![20180731120000](https://user-images.githubusercontent.com/7507701/43430028-d2f4d61e-94a1-11e8-99af-4ae9482e1db0.png)
 
 ## Overview
